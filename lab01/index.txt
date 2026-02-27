@@ -1,1 +1,33 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Portfolio Landing Page</title>
+</head>
+<body>
+
+<header>
+    <h1>Rafia Imran - Portfolio</h1>
+
+<section>
+    <h2>Introduction</h2>
+    <p>
+        Welcome to my Web Technologies Lab Portfolio .
+    </p>
+
+    <h2>Lab Tasks</h2>
+    <ul>
+        <li><a href="profile.html">Personal Profile</a></li>
+        <li><a href="schedule.html">Course Schedule</a></li>
+        <li><a href="navigation.html">Navigation Menu</a></li>
+        <li><a href="registration.html">Registration Form</a></li>
+    </ul>
+    
+    <h2>Exercises</h2>
+    <ul>
+    <li><a href="exercises.html">Exercise Page</a></li>
+    </ul>
+
+</body>
+</html>
 
